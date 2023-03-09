@@ -3,3 +3,5 @@ def main():
 
 def calculate(i: int, j: int):
     return i + j
+def sum(x, y):
+    return x + y
