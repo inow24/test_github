@@ -5,3 +5,6 @@ def calculate(i: int, j: int):
     return i + j
 def sum(x, y):
     return x + y
+def min(x, y):
+    z = x - y
+    return x - y
